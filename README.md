@@ -10,7 +10,8 @@ This repository showcases a collection of **beginner-to-advanced Deep Learning p
 
 - 🖼️ **PROJECT1.** Basic Diabetes detection using NN
 - 🧬 **PROJECT2.** Object Detection using Transfer Learning  
-- 🐶 **PROJECT3.** Brain Tumor Detection from Scratch using CNN  
+- 🐶 **PROJECT3.** Brain Tumor Detection from Scratch using CNN
+- 🍽️ **PROJECT4** Custom Image Classification using Transfer Learning
 
 
 
@@ -64,3 +65,4 @@ This repo is meant for:
 📍 Open for collaboration, discussions, and AI innovation!  
 
 ---
+
