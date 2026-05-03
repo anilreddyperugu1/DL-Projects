@@ -13,6 +13,7 @@ This repository showcases a collection of **beginner-to-advanced Deep Learning p
 - 🐶 **PROJECT3.** Brain Tumor Detection from Scratch using CNN
 - 🍽️ **PROJECT4.** Custom Image Classification using Transfer Learning
 - 📸 **PROJECT5.** Image Recognition using PyTorch
+- 🚶‍♂️ **PROJECT6.** Social Distance Monitoring using YOLOv8
 
 
 
