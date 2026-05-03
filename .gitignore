@@ -11,8 +11,5 @@ __pycache__/
 # ML models (YOLO weights)
 *.pt
 
-# Videos / outputs
-videos/
-
 # Optional logs
 *.log
