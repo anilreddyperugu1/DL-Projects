@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# ML models (YOLO weights)
+*.pt
+
+# Videos / outputs
+videos/
+
+# Optional logs
+*.log
