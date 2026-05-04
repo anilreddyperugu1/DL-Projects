@@ -8,8 +8,5 @@
 __pycache__/
 *.pyc
 
-# ML models (YOLO weights)
-*.pt
-
 # Optional logs
 *.log
