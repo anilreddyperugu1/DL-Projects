@@ -16,6 +16,7 @@ This repository showcases a collection of **beginner-to-advanced Deep Learning p
 - 🚶‍♂️ **PROJECT6.** Social Distance Monitoring using YOLOv8
 - 😷 **PROJECT7.** Face Mask Detector using Custom Model
 - 📈 **PROJECT8.** Stock Price Prediction using LSTM
+- 📈 **PROJECT9.** Motion Detection using OpenCV
 
 
 > ⚡ Each project includes **data preprocessing, model architecture, training details, evaluation metrics, and visualizations**, making this repository a **complete DL reference**.  
